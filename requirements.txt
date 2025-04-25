@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+scipy
+pywin32
+httpx
+asyncio
+statsmodels
+seaborn
+matplotlib
+
+
